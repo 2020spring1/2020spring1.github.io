@@ -1,0 +1,51 @@
+
+.title {
+  color: black;
+}
+
+#cursive{
+	font-family: cursive;
+}
+
+.capitalize{
+	text-transform: capitalize;
+}
+
+p{
+	line-height: normal; color: black; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+
+ul{
+	color: black
+}
+
+h1{
+	outline-color:black;outline-style: solid;background-color: darkcyan
+}
+
+.div{
+	outline-style: solid;background-image: linear-gradient(darkcyan, greenyellow)
+}
+
+.outline{
+	outline-color:black;outline-style: solid; background-color:greenyellow
+}
+
+#outlinetwo{
+	outline-color:black;outline-style: solid; background-image: linear-gradient(greenyellow, darkcyan)
+}
+
+#outlinefinal{
+	outline-color:black;outline-style: solid; background-color:darkcyan
+}
+
+body{
+	background-color:lightgray
+}
+
+.border{
+	outline-color:black;outline-style: solid;
+}
+
+
+
