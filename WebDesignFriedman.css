@@ -1,6 +1,6 @@
 
 .title {
-  color: black;
+  color: black; font-size:100px
 }
 
 #cursive{
@@ -12,11 +12,11 @@
 }
 
 p{
-	line-height: normal; color: black; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";font-size:medium
+	line-height: 40px; color: black; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";font-size:20px
 }
 
 ul{
-	color: black
+	color: black; font-size: 20px
 }
 
 h1{
@@ -47,4 +47,6 @@ body{
 	outline-color:black;outline-style: solid;
 }
 
-
+span{
+	font-weight: bold; text-decoration: underline;
+}
