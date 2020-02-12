@@ -12,7 +12,7 @@
 }
 
 p{
-	line-height: normal; color: black; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+	line-height: normal; color: black; font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";font-size:medium
 }
 
 ul{
@@ -46,6 +46,5 @@ body{
 .border{
 	outline-color:black;outline-style: solid;
 }
-
 
 
