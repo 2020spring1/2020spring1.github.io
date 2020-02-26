@@ -1,0 +1,71 @@
+h1{
+	text-align:left;
+	font:bold;
+	font-size:50px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color:deepskyblue;
+	background-image:url(https://img.freepik.com/free-photo/elegant-black-handmade-technique-aquarelle_23-2148300751.jpg?size=626&ext=jpg);
+	border-style:double;
+	border-color:gray	
+}
+
+
+#container{
+	width: 900px;
+	background-image:url(https://www.solidbackgrounds.com/images/website/950x534/950x534-blue-stained-glass-free-website-background-image.jpg);
+	border-style:double;
+	border-width:thick;
+	padding:20px;
+}
+
+#quote{
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-style:italic;
+	font:bold;
+	font-size:15px;
+	float:right;
+}
+
+h2{
+	text-size:40px;
+}
+
+p{
+	
+}
+
+.span{
+	font:bold;
+	font-style:italic; 
+}
+
+p{
+	border:double;
+	border-color:grey;
+	background-image:url(https://img.freepik.com/free-photo/elegant-black-handmade-technique-aquarelle_23-2148300751.jpg?size=626&ext=jpg);
+	color:deepskyblue;
+	font:bold;
+}
+
+.heading{
+	border:double;
+	border-color:grey;
+	background-color:black;
+	color:deepskyblue;
+	font:bold;
+}
+
+.validation{
+	float:left
+}
+
+body{
+	background-color:lightblue;
+}
+
+#outlinefinal{
+	background-image:url(https://www.solidbackgrounds.com/images/website/950x534/950x534-blue-stained-glass-free-website-background-image.jpg);
+	border-color:black;
+	border-width:thick;
+	float:left;
+}
