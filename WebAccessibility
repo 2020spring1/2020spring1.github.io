@@ -1,0 +1,46 @@
+<html>
+
+<head>
+  <title>Web Accessibility for the Blind</title>
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+ <div id="title">
+	</div>
+	
+	<div id ="geninfo" class="geninfo">
+		<h1>Web Accessibility</h1>
+		<h2>Importance of Web Accessibility</h2>
+			<p>Web Accessibility is there for us, so we can make sure that our websites are accessible for those who face disibilities, such as blindness. It is important that we are inclusive to everybody who wishes to participate in out websites, which is why there are many things such as screenreaders.</p>
+		<h2>Tools </h2>
+			<p>Their are many ways for the visualy impaired to surf websites and browse the internet, one of the best ways for them to do this is through the use of programs called screen readers.</p>
+	</div>
+	<div id="screenreaders" class="screenreaders">
+		<h2>Screen Readers</h2>
+			<h3>What are Screen Readers?</h3>
+				<p>Screen Readers are programs that allow the visually impaired the ability to read the text on screen by use of things such as speech synthesizer, braille display, or other things such as the ability to magnify a screen to a larger resolution.</p>
+			<h3>Availability of Screen Readers</h3>
+				<p>Screen readers are available for download, and some computers even come with built in screen readers. As an example, Chrome windows and Apple all have screen reader programs which can be installed on a mobile device or a desktop. Some screen readers that are available for download are Fangs, Jaws, and Color Laboratory, for people who are color blind. The price of screen readers vary, as some can be free while others can be amounts up to 1,000 dollars.S</p>
+	</div>
+	<div id="resources" class="Resources">
+		<h4>Links to the Screen Readers</h4>
+			<ul>
+				<li><a href="http://www.standards-schmandards.com/projects/fangs/" target="_blank">Fangs</a></li>
+				<li><a href="http://www.freedomscientific.com/Products/Blindness/JAWS" target="_blank">Jaws</a></li>
+				<li><a href="http://colorlab.wickline.org/colorblind/colorlab/" target="_blank">Color Laboratory</a></li>
+			</ul>
+    <h4>More Information<h4>
+      <ul>
+        <li><a href="http://www.washington.edu/accessit" target="_blank">AccessIT</a></li>
+        <li><a href="http://www.cynthiasays.com/" target="_blank">Cynthia Says Portal</a></li>
+      </ul>
+	</div>
+	<div><a href=#title>Return to Top</a></div>
+	<p>©2020 #1</p>
+	<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2F2020spring15.github.io%2Faccessibility.html" target=_"blank"><img src="https://raw.githubusercontent.com/2020spring15/2020spring15.github.io/master/valid_html5_blue.png" width="80" height="15" alt="html valadation badge"/></a>
+	<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F2020spring15.github.io%2Faccessibility.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" target=_"blank"><img src="https://2020spring15.github.io/valid_css3_blue.png" width="80" height="15" alt="css valadation badge"/></a>
+	
+</body>
+
+</html>
