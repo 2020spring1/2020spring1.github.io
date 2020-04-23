@@ -1,0 +1,26 @@
+body {
+	color: white;
+}
+
+#divide {
+  outline-style:inset;
+  padding:20px
+}
+
+.color {
+  color:darkblue
+}
+
+#title {
+  font-size:100px
+}
+#color {
+  background-image: linear-gradient(white, #00d9ff)
+}
+.italicize {
+  font-style:italic;
+}
+.list {
+  font-style:italic;
+  text-decoration:underline;
+}
