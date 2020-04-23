@@ -1,0 +1,47 @@
+<html>
+<div id="color">
+<head>
+  <title>Copyright</title>
+  <link href="Copyright.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="divide">
+
+<h1 class="color" id="title">Copyright</h1>
+
+<h2 class="color">What is the Purpose of <span class="italicize">Copyright?</span></h2>
+
+<p class="color">Imagine how it would feel, if you worked incredibly hard on something, just to have someone claim it as their own. That is why copyright is a thing, so people can create their own original work without the threat of having it stolen. Copyright is especially important for web designers, as they have to know what they can and can't use.</p>
+
+<h2 class="color">Copyright Scavenger Hunt</h2>
+
+ <a href="https://2020spring1.github.io/PlainWebsite.html">Link to Worksheet</a>
+
+<ol class="color">
+  <li><a href="https://fairuse.stanford.edu/overview/fair-use/what-is-fair-use/"><span class="list">Question 1:</span></a> What is the definition of fair use?</li>
+  <li><a href="https://fairuse.stanford.edu/overview/public-domain/welcome/"><span class="list">Question 2:</span></a> What is a public domain?</li>
+  <li><a href="https://www.lib.purdue.edu/uco/CopyrightBasics/penalties.html"><span class="list">Question 3:</span></a> What are the punishments for violating copyright laws?</li>
+  <li><a href="https://libguides.bhtafe.edu.au/c.php?g=762808&p=5470102"><span class="list">Question 4:</span></a> How do you properly cite a quote from a source?</li>
+  <li><a href="https://creativefuture.org/video-game-streaming/"><span class="list">Question 5:</span></a> What are som copyright rules for streaming video game play?</li>
+</ol>
+
+<a class="color" href="">When you're finished, check your answer with the Answer Key</a>
+
+<hr>
+
+  <a href="https://2020spring1.github.io/PlainWebsite.html">Return to Index</a>
+
+	<p class="color">©2020 #1</p>
+
+	<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2F2020spring15.github.io%2Faccessibility.html" target=_"blank"><img src="https://raw.githubusercontent.com/2020spring15/2020spring15.github.io/master/valid_html5_blue.png" width="80" height="15" alt="html valadation badge"/></a>
+	<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F2020spring15.github.io%2Faccessibility.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en" target=_"blank"><img src="https://2020spring15.github.io/valid_css3_blue.png" width="80" height="15" alt="css valadation badge"/></a>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
