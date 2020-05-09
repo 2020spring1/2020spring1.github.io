@@ -1,0 +1,37 @@
+body {
+	color: white;
+}
+
+#divide {
+  outline-style:inset;
+  padding:20px
+}
+
+.color {
+  color:darkblue
+}
+
+#title {
+  font-size:100px
+}
+#color {
+  background-image: linear-gradient(white, #00d9ff)
+}
+.italicize {
+  font-style:italic;
+}
+.list {
+  font-style:italic;
+  text-decoration:underline;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+table {
+  border: 2px solid #E0E6E8;
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
