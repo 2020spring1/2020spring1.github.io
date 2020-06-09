@@ -1,0 +1,50 @@
+body {
+	color: white;
+}
+
+#divide {
+  outline-style:inset;
+  padding:20px
+}
+
+.color {
+  color:darkblue
+}
+
+#title {
+  font-size:100px;
+  text-align:center
+}
+
+#color {
+  background-image: linear-gradient(blue, white,red)
+}
+.italicize {
+  font-style:italic;
+}
+
+
+.bold {
+  font-weight:bold;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #404040
+}
+
+.topnav a {
+  float: left;
+  display:block;
+  color:white;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+
+#border {
+  border-style: solid;
+  padding: 16px;
+  color: white;
+  background-color: black
+}
